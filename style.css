@@ -1,0 +1,151 @@
+.londrina-sketch-regular {
+    font-family: "Londrina Sketch", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.vt323-regular {
+    font-family: "VT323", monospace;
+    font-size: xxx-large;
+    font-style: normal;
+}
+
+.vt323-small {
+    font-family: "VT323", monospace;
+    font-size: x-large;
+    font-style: normal;
+}
+
+.josefin-sans-uniquifier {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.cabin-sketch-regular {
+    font-family: "Cabin Sketch", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: x-large;
+}
+
+.cabin-sketch-bold {
+    font-family: "Cabin Sketch", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: x-large;
+  }
+
+  .protest-strike-regular {
+    font-family: "Protest Strike", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: x-large;
+  }
+.protest-strike-simples{
+    font-family: "Protest Strike", sans-serif;
+    font-weight: 400;
+    font-size: medium;
+    text-align: center;
+}
+
+.titulo {
+    text-align: start;
+    text-align: center;
+    font-size: xxx-large;
+    font-family: "Londrina Sketch", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.titulo-undertale {
+    font-family: "VT323", monospace;
+    text-align: center;
+    font-size: xxx-large;
+}
+
+.titulo-greatsword {
+    font-family: "Cabin Sketch", sans-serif;
+    text-align: center;
+    font-size: xxx-large;
+    
+}
+.titulo-minit{
+        font-family: "Bebas Neue", sans-serif;
+        font-size: xxx-large;
+        font-style: normal;
+        text-align: center;
+}
+.titulo-kingdomrush{
+        font-family: "Protest Strike", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: xxx-large;
+        text-align: center;
+
+      }
+
+
+p1 {
+    font-size: large;
+    font-weight: 600;
+}
+
+.sublinhadofrases {
+    font-size: small;
+}
+
+.letraspequenas {
+    font-size: small;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+}
+
+.jogos {
+    text-align: center;
+    text-align: center;
+    list-style-type: none;
+}
+
+h1 {
+    font-size: x-large;
+}
+
+p {
+    font: 400;
+}
+
+a {
+    text-decoration: none;
+}
+
+section {
+    float: left;
+}
+
+.undertaleaside {
+    text-align: center;
+}
+
+.galery {
+    width: 1333px;
+}
+.greatswordaside{
+    text-align: center;
+}
+img{
+    text-align: center;
+}
+table{
+    
+}
